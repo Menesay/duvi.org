@@ -4,13 +4,6 @@ import socket
 import random
 import threading
 
-print("#########################################")
-print("#           Python DDoS Botnet          #")
-print("#             Author: Menesay           #")
-print("#                  2022                 #")
-print("#########################################")
-
-
 HEADER = 64
 PORT = 5050
 #SERVER = socket.gethostbyname(socket.gethostname())
